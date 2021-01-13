@@ -15,10 +15,11 @@ Since solving coding problems is one of my favorite things to do, Whenever I get
 * Diagonal Difference  
 * Very Big Sum  
 * Mini Max Sum  
-* PlusMinus  
-* BirthayCakeCandles
+* Plus Minus  
+* Birthay Cake Candles
 * Staircase  
 * Grading Students
-* AppleAndOrange
+* Apple And Orange
 * Time Conversion  
-* NumberLineJumps
+* Number Line Jumps 
+* Divisible Sum Pairs
